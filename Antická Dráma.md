@@ -2,4 +2,4 @@
 Obdobie: "[[Antika]]"
 ---
 # Znaky
-- **Troj-jednota** - jednota *deja*, *miesta* a **
+- **Troj-jednota** - jednota *deja*, *miesta* a *času*
