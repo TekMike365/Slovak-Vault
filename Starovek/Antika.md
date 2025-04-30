@@ -3,7 +3,6 @@ Autori:
   - "[[Sofokles]]"
   - Aristoteles
 ---
-
 # Znaky
 - Polyteizmus
 - podriadenosť ľudí bohom s kladnými i zápornými ľudskými vlastnosťami
