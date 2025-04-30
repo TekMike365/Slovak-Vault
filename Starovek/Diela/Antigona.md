@@ -1,7 +1,7 @@
 ---
 Autor: "[[Sofokles]]"
 Obdobie: "[[Antika]]"
-Lit. Žáner: "[[Antická Dráma]]"
+Lit. Žáner: "[[Antická Dráma|Dráma]]"
 ---
 #not-implemented
 
