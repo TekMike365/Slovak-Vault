@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"22f22f8ac75b6769","x":-161,"y":-44,"width":250,"height":60,"type":"text","text":"Menoikaus"},
+		{"id":"0fbaa3beda48ff0a","x":21,"y":83,"width":250,"height":60,"type":"text","text":"**Kreón** + **Euridika**"},
+		{"id":"42744eb3ceab79ba","x":188,"y":203,"width":250,"height":60,"type":"text","text":"Magareus"},
+		{"id":"cd2695b92d05ec3e","x":-135,"y":195,"width":250,"height":60,"type":"text","text":"**Haimon**"},
+		{"id":"f1bfa9ca8909eb3e","x":-419,"y":111,"width":250,"height":60,"type":"text","text":"Oidipos"},
+		{"id":"c7d3bb7244913ede","x":-595,"y":231,"width":250,"height":60,"type":"text","text":"**Eteokles** X **Polyneikes**"},
+		{"id":"075d5f6e7bb573e3","x":-358,"y":311,"width":250,"height":60,"type":"text","text":"**Antigona**"},
+		{"id":"ca54d7e9e0d89686","x":-509,"y":395,"width":250,"height":60,"type":"text","text":"**Isména**"}
+	],
+	"edges":[
+		{"id":"13dbcd3588881241","fromNode":"22f22f8ac75b6769","fromSide":"bottom","toNode":"0fbaa3beda48ff0a","toSide":"top"},
+		{"id":"69c5b302974f0753","fromNode":"0fbaa3beda48ff0a","fromSide":"bottom","toNode":"42744eb3ceab79ba","toSide":"top"},
+		{"id":"14dd08e66da1c698","fromNode":"0fbaa3beda48ff0a","fromSide":"bottom","toNode":"cd2695b92d05ec3e","toSide":"top"},
+		{"id":"a53ea3d20cba799b","fromNode":"22f22f8ac75b6769","fromSide":"bottom","toNode":"f1bfa9ca8909eb3e","toSide":"top"},
+		{"id":"7400926f68e390db","fromNode":"f1bfa9ca8909eb3e","fromSide":"bottom","toNode":"c7d3bb7244913ede","toSide":"top"},
+		{"id":"11bb6e4a8963beda","fromNode":"f1bfa9ca8909eb3e","fromSide":"bottom","toNode":"075d5f6e7bb573e3","toSide":"top"},
+		{"id":"86ff22e51b1e2fa6","fromNode":"f1bfa9ca8909eb3e","fromSide":"bottom","toNode":"ca54d7e9e0d89686","toSide":"top"},
+		{"id":"3c0ad930ade19710","fromNode":"075d5f6e7bb573e3","fromSide":"right","toNode":"cd2695b92d05ec3e","toSide":"bottom","fromEnd":"arrow"}
+	]
+}
