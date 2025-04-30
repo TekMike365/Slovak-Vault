@@ -25,11 +25,14 @@ Autori:
 - **Individuálny** - sám so sebou
 
 # Autori a Diela
-- **Homér** - (slepý) 2 eposy
+- **Homér** - (slepý) 2 [eposy](Epos)
 	- Ilias
 		- 15 696 hexametrických veršov
 		- posledných 51 dní Trója vs Sparta (Paris, Helena, Achileus)
 	- Odysea
+		- 12 103 veršov
+		- drevený kôň v Tróji
+		- Odyseova cesta domov, verná manželka Penelope
 - **Ezop** - bájky
 - **Sappho** - lyrika, z ostrova Lesbos
 
